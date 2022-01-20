@@ -17,11 +17,11 @@ body {
   
   background-color: #920052; /* Green */
   color: white;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
   font-family: 'Poppins', sans-serif;
   margin: 4px 2px;
   cursor: pointer;
@@ -34,11 +34,11 @@ body {
  
   background-color: #0E306B; /* Green */
   color: white;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
   margin: 4px 2px;
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
@@ -50,11 +50,11 @@ body {
  
   background-color: #0E306B; /* Green */
   color: white;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
  font-family: 'Poppins', sans-serif;
   margin: 4px 2px;
   cursor: pointer;
@@ -66,11 +66,11 @@ body {
  
   background-color: #0E306B; /* Green */
   color: white;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
 font-family: 'Poppins', sans-serif;
   margin: 4px 2px;
   cursor: pointer;
