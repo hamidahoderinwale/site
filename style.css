@@ -77,4 +77,8 @@ body {
   transition-duration: 0.4s;
 }
 
+.li {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+}
 
