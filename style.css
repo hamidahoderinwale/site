@@ -1,12 +1,12 @@
 
 body {
-  padding: 3% 10%;
+  padding: 3% 40%;
   font-family: 'Poppins', sans-serif;
 }
 .text {
   font-family: 'Poppins', sans-serif;
   font-weight: 100;
-  font-size: 1.7vw;
+  font-size: 14px;
   max-width: 70%;
   max-height: 50%;
   line-height: 1.35;
