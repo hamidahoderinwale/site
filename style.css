@@ -1,10 +1,10 @@
 
 body {
   padding: 3% 10%;
-  color: FFFAFF;
+  font-family: 'Titillium Web', sans-serif;
 }
 .text {
-  font-family: "Titillium Web";
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 100;
   font-size: 1.7vw;
   max-width: 70%;
